@@ -19,6 +19,7 @@ npm i -g live-server
 sudo apt install zsh -y
 chsh -s /bin/zsh
 zsh
+# Enter para continuar
 
 # Instalar Oh-my-zsh! -> https://ohmyz.sh/
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
